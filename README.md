@@ -1,0 +1,1 @@
+# Aplicativo-de-IA-para-Gesti-n-de-Turismo
