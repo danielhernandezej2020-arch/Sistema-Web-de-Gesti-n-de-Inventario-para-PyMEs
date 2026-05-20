@@ -1,1 +1,5 @@
-# Aplicativo-de-IA-para-Gesti-n-de-Turismo
+Sistema Web de Gestión de Inventario para PyMEs
+
+Gestión de proyectos de software
+
+Profesor: Wilson Castaño
